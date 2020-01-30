@@ -8,7 +8,7 @@
 
 Bitcoin is preferred:<br>
 
-[![alt text](https://clouds.boff.in/bitcoin.png "Bitcoin donation")](bitcoin:35ze21f6eMjsDFFxGVkXUqNUxZGnUvJEWf)
+[![alt text](https://palitoy.com/bitcoin.png "Bitcoin donation")](bitcoin:35ze21f6eMjsDFFxGVkXUqNUxZGnUvJEWf)
 
 ### Referrals
 
